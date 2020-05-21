@@ -1,0 +1,65 @@
+body{
+  text-align: center;
+  background-color: #283149;
+}
+
+h1{
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: sans-serif;
+  text-shadow: 3px 0 blue;
+
+}
+
+.k{
+  background-image: url("images/Sidhu.jpg");
+}
+.a{
+  background-image: url("images/Sidhu.jpg");
+}
+.b{
+  background-image: url("images/Sidhu.jpg");
+}
+.s{
+  background-image: url(images/Sidhu.jpg);
+}
+.ka{
+  background-image: url("images/Sidhu.jpg");
+}
+.kr{
+  background-image: url("images/Sidhu.jpg");
+}
+.j{
+  background-image: url(images/Sidhu.jpg);
+}
+.g{
+  background-image: url("images/Sidhu.jpg");
+}
+
+.set{
+  margin: 10% auto;
+}
+.nk{
+  outline: none;
+  height: 200px;
+  width: 200px;
+  border: 10px solid red;
+  border-width: 3px;
+  font-size: 3rem;
+  display: inline-block;
+  line-height: 1;
+  color: pink;
+  text-align: center;
+  color: green;
+  border-radius: 50%;
+  margin: 10px;
+  background-color: #fff;
+    text-shadow: 3px 0 #283149;
+  font-family: cursive;
+  font-weight: 900;
+}
+
+footer{
+  font-size: 30px;
+  color: #fff;
+}
